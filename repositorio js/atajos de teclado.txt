@@ -1,0 +1,19 @@
+*En VSC:
+Alt + Arriba o Abajo -> Coge la fila seleccionada y la mueve hacia arriba o hacia abajo.
+Alt + Shift + F -> Dejar bien el código.
+Alt + Z -> Toggle Word Wrap. Hará saltos de línea automáticos para hacer todo mucho más legible. También se puede configurar para que ya esté así por defecto. Se va a File/Preferences/Settings y se busca la palabra "Wrap". En "Editor Word Wrap" se pasará de "off" a "on" para dejarlo por defecto.
+Ctrl + N -> Abrir nuevo archivo vacío.
+Ctrl + S -> Guardar.
+Ctrl + X -> Borrar esa línea.
+Ctrl + Alt + N -> Abrir nueva ventana de VSC.
+F2 -> Renombrar.
+Tab -> Autocompletar.
+
+*En HTML:
+! + Tab -> Emmet Abreviattion. Crea la estructura básica HTML.
+
+*En JS:
+Ctrl + Alt + N -> Ejecutar y ver consola.
+Ctrl + } -> Genera un comentario en línea "//".
+Ctrl + Shift + Q -> Genera un console Log de la variable seleccionada. Hay que tener el Console Wrapper instalado.
+
